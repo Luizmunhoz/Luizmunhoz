@@ -1,12 +1,11 @@
 
-### Olá! Eu sou Luiz Munhoz 👋🏻
+### Olá! Eu sou Luiz Munhoz, desenvolvedor de Software back end em formação e começando a vivenciar a mudança de carreira.👋🏻
+ “É loucura jogar fora todas as chances de ser feliz porque uma tentativa não deu certo.” – Antoine de Saint-Exupéry 
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://https://www.linkedin.com/in/luiz-fernando-munhoz-torres/)
 [![Linkedln](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munhozluth@gmail.com)
 [![Linkedln](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088221729602)
 
-
-[![Luizmunhoz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizmunhoz&show_icons=true&theme=dracula))]
 
 ### Tecnologias usadas no meu dia
 
@@ -20,6 +19,8 @@
 <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+  
+  [![Luizmunhoz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizmunhoz&show_icons=true&theme=dracula))]
 
 
 
