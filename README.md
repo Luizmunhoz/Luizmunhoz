@@ -19,6 +19,8 @@
 <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+ 
+ 
   
   [![Luizmunhoz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizmunhoz&show_icons=true&theme=dracula))]
 
